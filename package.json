@@ -1,0 +1,17 @@
+{
+  "name": "date",
+  "version": "1.0.0",
+  "description": "\"Отображение даты\"",
+  "main": "index.js",
+  "bin": {
+    "res": "./date.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Koliberskiy",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
